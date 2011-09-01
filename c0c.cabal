@@ -1,8 +1,6 @@
 Name:                c0c
 Version:             0.0
 Synopsis:            C0 Compiler Base Code
-License:             BSD3
-License-file:        LICENSE
 Author:              Matthew Maurer
 Maintainer:          mmaurer@andrew.cmu.edu
 Category:            Development
