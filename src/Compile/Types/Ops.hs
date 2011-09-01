@@ -15,5 +15,6 @@ instance Show Op where
   show Div = "/"
   show Neg = "-"
   show Mod = "%"
+  show Nop = "[nop]"
 
 data COp = Ret deriving Show
