@@ -1,3 +1,9 @@
+{- L1 Compiler
+   Author: Matthew Maurer <mmaurer@andrew.cmu.edu>
+   Modified by: Ryan Pearl <rpearl@andrew.cmu.edu>
+
+   Currently just a pseudolanguage with 3-operand instructions and arbitrarily many temps.
+-}
 module Compile.CodeGen where
 
 import Compile.Types

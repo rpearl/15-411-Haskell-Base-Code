@@ -1,3 +1,9 @@
+{- L1 Compiler
+   Author: Matthew Maurer <mmaurer@andrew.cmu.edu>
+   Modified by: Ryan Pearl <rpearl@andrew.cmu.edu>
+
+   The start of a parser
+-}
 module Compile.Parse where
 
 import Control.Monad.Error

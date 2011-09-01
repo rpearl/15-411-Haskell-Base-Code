@@ -1,3 +1,9 @@
+{- L1 Compiler
+   Author: Matthew Maurer <mmaurer@andrew.cmu.edu>
+   Modified by: Ryan Pearl <rpearl@andrew.cmu.edu>
+
+   Abstract Assembly operations
+-}
 module Compile.Types.Ops where
 
 data Op = Mul

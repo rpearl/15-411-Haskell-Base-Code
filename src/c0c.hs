@@ -1,3 +1,9 @@
+{- L1 Compiler
+   Author: Matthew Maurer <mmaurer@andrew.cmu.edu>
+   Modified by: Ryan Pearl <rpearl@andrew.cmu.edu>
+
+   the entry point to the compiler
+-}
 import Compile
 import Args
 import System.Environment

@@ -1,3 +1,9 @@
+{- L1 Compiler
+   Author: Matthew Maurer <mmaurer@andrew.cmu.edu>
+   Modified by: Ryan Pearl <rpearl@andrew.cmu.edu>
+
+   Defines a flat abstract assembly.
+-}
 module Compile.Types.AbstractAssembly where
 
 import Compile.Types.Ops
